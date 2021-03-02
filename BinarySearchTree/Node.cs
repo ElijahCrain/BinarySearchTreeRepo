@@ -8,5 +8,24 @@ namespace BinarySearchTree
 {
 	class Node
 	{
+		//Variables
+
+		public int Data;
+		public Node RightNode;
+		public Node LeftNode;
+
+		//ctor
+
+		public Node(int data)
+		{
+			Data = data;
+		}
+
+
+		//methods
+
+
+
+
 	}
 }
